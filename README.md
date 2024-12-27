@@ -1,3 +1,6 @@
+![App Screenshot](image.png)
+
+
 ## TL;DR
 
 1. Working code to incorporate any 3D Tile asset from Cesium Ion's Asset Depot into a NextJS x DeckGL app.

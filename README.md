@@ -1,6 +1,6 @@
 ## TL;DR
 
-1. Working code to incorporate any 3DTile asset from Cesium Ion's Asset Depot into a NextJS x DeckGL app.
+1. Working code to incorporate any 3D Tile asset from Cesium Ion's Asset Depot into a NextJS x DeckGL app.
 2. Some details on why Cesium's World Terrain does NOT work with DeckGL as of Dec 2024 (refer to progress.pdf).
 
 ## Getting Started
